@@ -17,7 +17,3 @@ unsetopt nomatch
 
 # Load node version on directory change
 eval "$(fnm env --use-on-cd)"
-
-# environment variables for OOpinion development
-export NODE_AUTH_TOKEN=$(pass show files-with-a-dot/oopinion/NODE_AUTH_TOKEN)
-export VITE_API_URL=http://localhost:3000

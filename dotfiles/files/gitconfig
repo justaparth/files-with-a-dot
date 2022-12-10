@@ -3,8 +3,8 @@
 [core]
   editor = vim
 [user]
-  name = Sapan Upadhyay
-  email = sapan.upadhyay@gmail.com
+  name = Parth Upadhyay
+  email = parth.upadhyay@gmail.com
 [merge]
   ff = false
 [pull]
